@@ -1,4 +1,4 @@
-# Web Development Project 3 - *Civics Deck*
+# Web Development Project 4 - *Civics Deck*
 
 Submitted by: **Nhi Huynh**
 
@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-[Video Walkthorugh](https://imgur.com/a/7P2ghVS)
+[Video Walkthrough](https://imgur.com/a/7P2ghVS)
 
 ## Notes
 
@@ -38,7 +38,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [2024] [Nhi Hunh]
+    Copyright [2024] [Nhi Huynh]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
